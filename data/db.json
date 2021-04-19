@@ -11,18 +11,6 @@
       "title": "How to be a Net Ninja",
       "body": "lorem ipsum dolor sit amet.",
       "likes": 15
-    },
-    {
-      "id": 3,
-      "title": "New course coming soon",
-      "body": "lorem ipsum dolor sit amet.",
-      "likes": 20
-    },
-    {
-      "title": "Mario Kart Live Review",
-      "body": "big bada bum \nbum bum",
-      "likes": 0,
-      "id": 4
     }
   ],
   "polls": [
